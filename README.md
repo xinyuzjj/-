@@ -1,65 +1,98 @@
 # Automated-Commit
+<div align="center">
+  <div align="center">
+  </div>
+  <h1 align="center">Hey there! Welcome to my profile <img src="https://raw.githubusercontent.com/Rabenherz112/Rabenherz112/main/assets/waving.gif" alt="Waving Hand" width="28" height="28"></h1>
+  <br>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+  <br>
+  <a href="https://t.me/junjunnizz"><img src="https://img.shields.io/badge/-Channel-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram channel"></a>
+  <br>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Desamod&label=Profile%20Visits&style=for-the-badge" />
+  <br>
+  <br>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center"> Support me <img src="https://www.kindpng.com/picc/b/237-2379108_donate-icon-png.png" alt="Donate logo" width="50" height="50"></h1>
+<h1 align="left"><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=032" alt="Bitcoin logo" width="30" height="30"> Bitcoin </h1>
 
-English | [简体中文](README-CN.md) 
+```
+bc1p4umpqu755hy3cw56uf5f7j7rafcjvrjgf9dp7qej3yc3tdtng88sj800y6
+```
+<h1 align="left">
+  <img src="https://cryptologos.cc/logos/tether-usdt-logo.svg?v=032" alt="Tether logo" width="30" height="30">
+  <img src="https://cryptologos.cc/logos/toncoin-ton-logo.svg?v=032" alt="Toncoin logo" width="30" height="30">
+  USDT Ton | Toncoin | Notcoin </h1>
 
-This repository contains a GitHub Actions workflow that automatically updates a file named `TIMESTAMP.txt` with the current date and time every 12 hours. This README provides a detailed overview of how the workflow operates and guides you through customizing and using it, especially if you're new to GitHub or GitHub Actions.
+```
+UQCoetOImEgtp3dDMeVRV7WtkN8ysxdeExabQQOdyUehqNyp
+```
 
-## Overview
-
-The `Automated-Commit` workflow demonstrates the capabilities of GitHub Actions for automating routine tasks within a repository. Specifically, this workflow:
-
-- Checks out the latest code from the `master` branch.
-- Updates the `TIMESTAMP.txt` file with the current date and time.
-- Commits the change to the repository if any modifications are detected.
-- Pushes the changes back to the `master` branch.
-
-## Workflow Structure
-
-The workflow is defined in the `.github/workflows/master.yml` file and includes:
-
-- **Triggers**: Configured to run every 12 hours and can be manually triggered via the GitHub UI with the `workflow_dispatch` event.
-- **Jobs and Steps**: Contains a job `update_commit` that runs on the latest Ubuntu runner, performing tasks such as setting up Git, updating `TIMESTAMP.txt`, and committing and pushing changes.
-- **Permissions**: Granted write permissions to the repository contents.
-
-## Using This Workflow
-
-### Creating Your Own Version
-
-To create your own version of this repository and workflow:
-
-1. Click the "Use this template" button on the GitHub repository page.
-2. Choose a name for your new repository and select "Create repository from template".
-3. Clone your new repository to make further customizations locally.
-
-### Customizing the Workflow
-
-Before using the workflow, you'll need to customize it with your GitHub user email and name:
-
-1. Navigate to the `.github/workflows/master.yml` file in your repository.
-2. Edit the file, replacing `"rxmxdhxni@gmail.com"` with your email and `"dante4rt"` with your GitHub username in the `Setup Git Configuration` step.
-3. Commit your changes.
-
-### Viewing Workflow Runs
-
-To view the history of workflow runs:
-
-1. Navigate to the `Actions` tab of your repository.
-2. Select the `Automated-Commit` workflow to see details of each run.
-
-### Manually Triggering the Workflow
-
-You can manually trigger the workflow:
-
-1. Go to the `Actions` tab of your repository.
-2. Select the `Automated-Commit` workflow.
-3. Click `Run workflow`, select `master`, and click `Run workflow` again.
-
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
-
-## Support
-
-For issues or questions, please file an issue in the `Issues` section of the repository.
-
-Thank you for exploring the Automated-Commit workflow!
+<h1 align="left">
+  <img src="https://cryptologos.cc/logos/tether-usdt-logo.svg?v=032" alt="Tether logo" width="30" height="30">
+  <img src="https://cdn.bitkeep.vip/u_b_fdfe0be0-c215-11ed-bb06-6b42bb500220.png" alt="Tron logo" width="30" height="30"> 
+  USDT TRC20 | Tron </h1>
+  
+```
+TZBp1UGNyABmiMnynGbiW53WJLCYqorLMT
+```
+<h1 align="left">
+  <img src="https://cryptologos.cc/logos/tether-usdt-logo.svg?v=032" alt="Tether logo" width="30" height="30">
+  <img src="https://logos-download.com/wp-content/uploads/2023/02/BNB_BNB_Logo-3000x3000.png" alt="BEP logo" width="30" height="30"> 
+  USDT BEP20 </h1>
+  
+```
+0x8d7de458060bd070fe69f14031f0f44d143903ff
+```
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div id="stats" align="center" style="display: flex; flex-direction: column;">
+    <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" width="30"> Github Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" width="30"></h2>
+    <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xinyuzjj&theme=github_dark"
+    />
+    <img
+      alt="github profile details"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xinyuzjjtheme=nord_bright"
+    />
+  </picture>
+  <a style="display: flex; align-items: left;">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xinyuzjj&theme=github_dark"
+    />
+    <img
+      alt="github profile details"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xinyuzjj&theme=nord_bright"
+    />
+  </picture>
+  </a>
+  <a style="display: flex; align-items: right;">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xinyuzjj&theme=github_dark"
+    />
+    <img
+      alt="github profile details"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xinyuzjj&theme=nord_bright"
+    />
+  </picture>
+  </a>
+</div>
